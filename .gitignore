@@ -1,0 +1,5 @@
+/lua/dbillings/domains/
+/backups/
+/~/
+*.log
+.DS_Store
